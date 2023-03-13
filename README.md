@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalpatil4
 - 👀 I’m interested in Editing, Film-making and designing.
 - 🌱 I’m currently into frontend-development.
-- 💞️ I’m looking to collaborate Design projects.
+- 💞️ I’m looking to collaborate on Design projects.
 - 📫 How to reach me
 - Instagram @vishal_sunitha_patil
 - site @https://linktr.ee/vishalmpatil
